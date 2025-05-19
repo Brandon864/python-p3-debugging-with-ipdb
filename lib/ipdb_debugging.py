@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-
-import ipdb
-
+# lib/ipdb_debugging.py
 def plus_two(num):
-    num + 2
-    return num
+    return num + 2
